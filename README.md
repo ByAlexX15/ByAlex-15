@@ -24,4 +24,4 @@
 
 # Para ejecutar
 
-* Si el lector quiere ejecutar y ver cada una de las salidas del programa, puede descargar los 3 archivos importantes para que todo funcione correctamente, el main.cpp que se encuentra en la carpeta  "", la biblioeta "eigen.h" y por ulitmo donde se encuentra toda la lógica "project.cpp", luego de descargar los 3 archivos, deberá abrir QT creator, creará un nuevo proyecto e importará los archivos descargados, para ejecutar deberá oprimir el boton verde que esta ubicado abajo a la derecha.
+* Si el lector quiere ejecutar y ver cada una de las salidas del programa, deberá descargar la carpeta Taller_Matrices que se enecuentra en el repositorio, luego importará esa carpeta al programa de QT Creator, luego de importarlo, solo tendrá que dar click en el boton que dicen Run que se encuentra en la parte inferior izquierda y es de color ver, si no ve el boton otra opción es con el comando "ctr + r".
